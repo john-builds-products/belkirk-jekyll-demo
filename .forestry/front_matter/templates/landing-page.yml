@@ -80,4 +80,5 @@ fields:
   hidden: true
   default: home
 pages:
+- 9292.md
 - index.md
